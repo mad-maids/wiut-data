@@ -73,6 +73,14 @@ jobs:
             echo "No old timetable found"
           fi
 
+      - name: Remove old groups if exists
+        run: |
+          if [ -d ./groups ]; then
+            rm -rf ./groups
+          else
+            echo "No old groups found"
+          fi
+
       - name: Clone data/timetable repo
         run: cp -r ./scraper/data/timetable ./timetable
 
