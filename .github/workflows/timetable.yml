@@ -24,13 +24,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Checkout code
+      - name: Clone scraper
         uses: actions/checkout@v4
         with:
           path: scraper
           repository: mad-maids/wiut-scraper
           ref: main
           fetch-depth: 1
+          token: ${{ secrets.GH }}
 
       - name: Install Node.js
         uses: actions/setup-node@v3
