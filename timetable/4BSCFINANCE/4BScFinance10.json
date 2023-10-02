@@ -1,0 +1,61 @@
+{
+  "monday": [
+    {
+      "name": "Financial Accounting",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Lilya Memesheva",
+      "length": 13,
+      "location": "IB311"
+    },
+    {
+      "name": "Global  Business Environment",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Dilshoda Rakhmonova",
+      "length": 16,
+      "location": "ATB314"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gayrat Suyunov",
+      "length": 11,
+      "location": "ATB207"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Financial Accounting",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Murtaza Niazi",
+      "length": 18,
+      "location": "ATB209"
+    }
+  ],
+  "thursday": [],
+  "friday": [
+    {
+      "name": "Global  Business Environment",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Bilal Hossain",
+      "length": 17,
+      "location": "IB101"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

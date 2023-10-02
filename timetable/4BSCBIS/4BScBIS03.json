@@ -1,0 +1,78 @@
+{
+  "monday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Farrukh Ataev",
+      "length": 11,
+      "location": "ATB301"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Computer Science Fundamentals",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Olga Yugay",
+      "length": 17,
+      "location": "SHB305 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "online seminar",
+      "start": 10,
+      "tutor": "Alisher Ismailov",
+      "length": 11,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Yulduz Yakubova",
+      "length": 17,
+      "location": "IB311"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Web Technology",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Said Abduvaliev",
+      "length": 11,
+      "location": "SHB304 CL"
+    },
+    {
+      "name": "Fundametals of Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 13,
+      "location": "SHB305 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Computer Science Fundamentals",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Olga Yugay",
+      "length": 11,
+      "location": "SHB408 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

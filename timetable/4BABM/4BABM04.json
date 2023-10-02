@@ -1,0 +1,77 @@
+{
+  "monday": [
+    {
+      "name": "Financial Accounting",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Lilya Memesheva",
+      "length": 13,
+      "location": "IB311"
+    },
+    {
+      "name": "Global  Business Environment",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Dilshoda Rakhmonova",
+      "length": 16,
+      "location": "ATB314"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Farhod Karimov",
+      "length": 13,
+      "location": "IB101"
+    },
+    {
+      "name": "Financial Accounting",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Murtaza Niazi",
+      "length": 16,
+      "location": "ATB310B"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "online seminar",
+      "start": 10,
+      "tutor": "Alisher Ismailov",
+      "length": 11,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Khilola Dushamova",
+      "length": 16,
+      "location": "ATB302"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Global  Business Environment",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Nigora Saidmuradova",
+      "length": 11,
+      "location": "ATB218"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}

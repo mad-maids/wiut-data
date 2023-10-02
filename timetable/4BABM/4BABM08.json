@@ -1,0 +1,77 @@
+{
+  "monday": [
+    {
+      "name": "Financial Accounting",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Lilya Memesheva",
+      "length": 13,
+      "location": "IB311"
+    },
+    {
+      "name": "Global  Business Environment",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Dilshoda Rakhmonova",
+      "length": 16,
+      "location": "ATB314"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Financial Accounting",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Khurram Khan",
+      "length": 16,
+      "location": "ATB312"
+    },
+    {
+      "name": "Global  Business Environment",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Nadejda Kim",
+      "length": 18,
+      "location": "ATB301"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "online seminar",
+      "start": 10,
+      "tutor": "Alisher Ismailov",
+      "length": 11,
+      "location": "IB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Nadejda Kim",
+      "length": 18,
+      "location": "IB313"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Khilola Dushamova",
+      "length": 13,
+      "location": "SHB301"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}

@@ -1,0 +1,77 @@
+{
+  "monday": [
+    {
+      "name": "Contemporary Issues in Global Economics",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Bilol Buzrukov",
+      "length": 11,
+      "location": "ATB314"
+    },
+    {
+      "name": "Mathematics for Economists",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Farrukh Ataev",
+      "length": 15,
+      "location": "ATB310 A"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Contemporary Issues in Global Economics",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilol Buzrukov",
+      "length": 11,
+      "location": "ATB303"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Olmas Isakov",
+      "length": 13,
+      "location": "ATB302"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Exploring Economics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Zohid Askarov",
+      "length": 12,
+      "location": "ATB310B"
+    }
+  ],
+  "thursday": [],
+  "friday": [
+    {
+      "name": "Exploring Economics",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Khilola Dushamova",
+      "length": 13,
+      "location": "ATB302"
+    },
+    {
+      "name": "Mathematics for Economists",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Ulugbek Rakhimov",
+      "length": 16,
+      "location": "Harvard306"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}
