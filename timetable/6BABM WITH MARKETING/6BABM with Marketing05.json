@@ -1,0 +1,86 @@
+{
+  "monday": [
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Julian Pinerez",
+      "length": 15,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Managing Brands",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Zamira Ataniyazova",
+      "length": 17,
+      "location": "ATB307"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Managing Brands",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Zamira Ataniyazova",
+      "length": 16,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Isabel V. Zamora",
+      "length": 18,
+      "location": "ATB302"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Shahid Rasool",
+      "length": 16,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "New Venture Creation",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Alisher Ismailov",
+      "length": 18,
+      "location": "ATB309"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Julian Pinerez",
+      "length": 18,
+      "location": "ATB310B"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

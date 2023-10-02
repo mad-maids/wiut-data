@@ -1,0 +1,77 @@
+{
+  "monday": [
+    {
+      "name": "New Venture Creation",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Timur Perkov",
+      "length": 13,
+      "location": "ATB304"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    },
+    {
+      "name": "Project Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 14,
+      "location": "IB307"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 15,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Iroda Komilova",
+      "length": 16,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Negotiations and Influence",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Timur Perkov",
+      "length": 18,
+      "location": "ATB212 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Negotiations and Influence",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Timur Perkov",
+      "length": 16,
+      "location": "IB202 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 18,
+      "location": "ATB310 A"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}

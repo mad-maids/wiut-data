@@ -1,0 +1,86 @@
+{
+  "monday": [
+    {
+      "name": "Database Systems Development",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Hamid Shakhbazkia",
+      "length": 18,
+      "location": "SHB408 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jakhongir Karimov",
+      "length": 11,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Avazkhan Khalikov",
+      "length": 13,
+      "location": "IB301"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 13,
+      "location": "SHB303 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Khilola Dushamova",
+      "length": 13,
+      "location": "SHB301"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Akmal Salikov",
+      "length": 13,
+      "location": "SHB408 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

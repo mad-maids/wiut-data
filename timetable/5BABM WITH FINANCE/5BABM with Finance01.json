@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "ATB209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 16,
+      "location": "IB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 17,
+      "location": "IB215 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Angelo Battaglia",
+      "length": 13,
+      "location": "ATB309"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Ulugbek Islamov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Angelo Battaglia",
+      "length": 13,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "IB307"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Temur Makhkamov",
+      "length": 18,
+      "location": "IB307"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jamshid Normatov",
+      "length": 11,
+      "location": "ATB207"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

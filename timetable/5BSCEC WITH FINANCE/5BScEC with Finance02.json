@@ -1,0 +1,103 @@
+{
+  "monday": [
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Zohid Askarov",
+      "length": 13,
+      "location": "ATB207"
+    },
+    {
+      "name": "Mathematics for Economists",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Farrukh Ataev",
+      "length": 15,
+      "location": "ATB310 A"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Akhliddin Malikov",
+      "length": 15,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Murodullo Bazarov",
+      "length": 18,
+      "location": "ATB218"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Econometrics",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Gayrat Suyunov",
+      "length": 16,
+      "location": "IB208 CL"
+    },
+    {
+      "name": "Mathematics for Economists",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Ikrom Rikhsiboev",
+      "length": 18,
+      "location": "IB309"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Akhliddin Malikov",
+      "length": 18,
+      "location": "ATB303"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Lilya Memesheva",
+      "length": 17,
+      "location": "ATB218"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Lilya Memesheva",
+      "length": 18,
+      "location": "ATB214 CL"
+    }
+  ],
+  "saturday": [
+    {
+      "name": "Econometrics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Obid Khakimov",
+      "length": 13,
+      "location": "IB216"
+    }
+  ],
+  "sunday": []
+}

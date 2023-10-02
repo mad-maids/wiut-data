@@ -1,0 +1,126 @@
+{
+  "monday": [
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jakhongir Karimov",
+      "length": 11,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Internet of Things",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Shirin Primkulova",
+      "length": 13,
+      "location": "SHB305 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 14,
+      "location": "IB307"
+    },
+    {
+      "name": "Distributed Systems and Cloud Computing",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Isomiddin Abdunabiev",
+      "length": 16,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Distributed Systems and Cloud Computing",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Isomiddin Abdunabiev",
+      "length": 18,
+      "location": "SHB304 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Internet of Things",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Shirin Primkulova",
+      "length": 16,
+      "location": "SHB304 CL"
+    },
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Jakhongir Karimov",
+      "length": 18,
+      "location": "Harvard306"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Business Information Systems Project",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "John Cena",
+      "length": 12,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Valeriya Tsoy",
+      "length": 14,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 14,
+      "location": "ATB214 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 15,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Iroda Komilova",
+      "length": 16,
+      "location": "IB215 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Valeriya Tsoy",
+      "length": 11,
+      "location": "SHB305 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

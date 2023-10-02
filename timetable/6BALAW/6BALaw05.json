@@ -1,0 +1,62 @@
+{
+  "monday": [
+    {
+      "name": "Public International Law",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Dildora Karimova",
+      "length": 13,
+      "location": "IB313"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "International Economic Law",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Khasan Sayfuddinov",
+      "length": 11,
+      "location": "Harvard306"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "International Investment Law",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akbar Ismanjanov",
+      "length": 11,
+      "location": "IB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Public International Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Dildora Karimova",
+      "length": 15,
+      "location": "IB301"
+    },
+    {
+      "name": "International Investment Law",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Timur Abdulazizov",
+      "length": 18,
+      "location": "IB308"
+    }
+  ],
+  "friday": [
+    {
+      "name": "International Economic Law",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Khasan Sayfuddinov",
+      "length": 11,
+      "location": "IB311"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

@@ -1,0 +1,94 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Database Systems Development",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Dmitriy Pochitaev",
+      "length": 17,
+      "location": "SHB304 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Avazkhan Khalikov",
+      "length": 13,
+      "location": "IB301"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Jakhongir Karimov",
+      "length": 15,
+      "location": "SHB304 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 13,
+      "location": "SHB303 CL"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Shakhnoza Asadova",
+      "length": 16,
+      "location": "IB313"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Valeriya Tsoy",
+      "length": 14,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Fundametals of Programming",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Nargiza Akramova",
+      "length": 18,
+      "location": "SHB304 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Valeriya Tsoy",
+      "length": 11,
+      "location": "SHB305 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

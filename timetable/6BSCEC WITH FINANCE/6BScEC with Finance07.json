@@ -1,0 +1,102 @@
+{
+  "monday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Nargiza Khuramova",
+      "length": 11,
+      "location": "IB216"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Behzod Alimov",
+      "length": 13,
+      "location": "ATB214 CL"
+    },
+    {
+      "name": "Dissertation",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Behzod Alimov",
+      "length": 16,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Rashid Javed",
+      "length": 13,
+      "location": "Harvard306"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Labour Economics",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Evangelos",
+      "length": 11,
+      "location": "IB310"
+    },
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Rashid Javed",
+      "length": 13,
+      "location": "IB209 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Labour Economics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Evangelos",
+      "length": 13,
+      "location": "ATB301"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Hamid Waqas",
+      "length": 11,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Hamid Waqas",
+      "length": 12,
+      "location": "ATB214 CL"
+    },
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Nargiza Khuramova",
+      "length": 16,
+      "location": "IB309"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

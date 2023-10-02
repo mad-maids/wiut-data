@@ -1,0 +1,86 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 14,
+      "location": "ATB218"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 15,
+      "location": "IB309"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 16,
+      "location": "IB309"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Consumer Behaviour",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Anil Kumar",
+      "length": 15,
+      "location": "ATB310 A"
+    },
+    {
+      "name": "Consumer Behaviour",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Anil Kumar",
+      "length": 17,
+      "location": "ATB310 A"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Shakhnoza Asadova",
+      "length": 15,
+      "location": "IB216"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Zarrukh Rakhimov",
+      "length": 14,
+      "location": "SHB206 H"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

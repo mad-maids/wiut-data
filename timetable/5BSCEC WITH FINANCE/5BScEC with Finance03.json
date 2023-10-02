@@ -1,0 +1,87 @@
+{
+  "monday": [
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Zohid Askarov",
+      "length": 13,
+      "location": "ATB207"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Gulhayo Nusratova",
+      "length": 17,
+      "location": "IB101"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Gulhayo Nusratova",
+      "length": 18,
+      "location": "IB208 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Murodullo Bazarov",
+      "length": 18,
+      "location": "ATB312"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Econometrics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Gayrat Suyunov",
+      "length": 18,
+      "location": "IB215 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 11,
+      "location": "IB101"
+    }
+  ],
+  "saturday": [
+    {
+      "name": "Econometrics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Obid Khakimov",
+      "length": 13,
+      "location": "IB216"
+    }
+  ],
+  "sunday": []
+}

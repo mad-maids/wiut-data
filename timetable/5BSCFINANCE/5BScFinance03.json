@@ -1,0 +1,78 @@
+{
+  "monday": [
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "ATB209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Lilya Memesheva",
+      "length": 11,
+      "location": "IB302"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Lilya Memesheva",
+      "length": 12,
+      "location": "IB202 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Muhammad Yousaf",
+      "length": 16,
+      "location": "ATB312"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Muhammad Yousaf",
+      "length": 18,
+      "location": "IB209 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "IB316"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Temur Makhkamov",
+      "length": 18,
+      "location": "IB316"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

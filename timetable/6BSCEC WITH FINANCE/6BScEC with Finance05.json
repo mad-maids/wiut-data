@@ -1,0 +1,166 @@
+{
+  "monday": [
+    {
+      "name": "Labour Economics",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Evangelos",
+      "length": 11,
+      "location": "ATB209"
+    },
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Zohid Askarov",
+      "length": 13,
+      "location": "ATB207"
+    },
+    {
+      "name": "Dissertation",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Behzod Alimov",
+      "length": 16,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Bilal Memon",
+      "length": 17,
+      "location": "ATB207"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Rashid Javed",
+      "length": 13,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Rashid Javed",
+      "length": 16,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Economics of Agriculture and Natural Resources",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Muhammed Bilal",
+      "length": 16,
+      "location": "ATB209"
+    },
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Murodullo Bazarov",
+      "length": 18,
+      "location": "ATB218"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Hamid Waqas",
+      "length": 11,
+      "location": "ATB211"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Hamid Waqas",
+      "length": 12,
+      "location": "ATB214 CL"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 13,
+      "location": "Lyceum hall"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 15,
+      "location": "ATB207"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 16,
+      "location": "ATB207"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Labour Economics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Evangelos",
+      "length": 13,
+      "location": "ATB301"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Jamshid Normatov",
+      "length": 16,
+      "location": "ATB303"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilal Memon",
+      "length": 11,
+      "location": "ATB303"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Bilal Memon",
+      "length": 12,
+      "location": "ATB303"
+    },
+    {
+      "name": "Economics of Agriculture and Natural Resources",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Muhammed Bilal",
+      "length": 14,
+      "location": "ATB303"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

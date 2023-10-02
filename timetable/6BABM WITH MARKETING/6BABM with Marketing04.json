@@ -1,0 +1,102 @@
+{
+  "monday": [
+    {
+      "name": "New Venture Creation",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Timur Perkov",
+      "length": 11,
+      "location": "ATB304"
+    },
+    {
+      "name": "Marketing Analytics",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Anil Kumar",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Managing Brands",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Zamira Ataniyazova",
+      "length": 13,
+      "location": "ATB218"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Julian Pinerez",
+      "length": 15,
+      "location": "Harvard306"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    },
+    {
+      "name": "Marketing Analytics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Anil Kumar",
+      "length": 18,
+      "location": "ATB214 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Isabel V. Zamora",
+      "length": 14,
+      "location": "ATB312"
+    },
+    {
+      "name": "Managing Brands",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Zamira Ataniyazova",
+      "length": 16,
+      "location": "Harvard306"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Shahid Rasool",
+      "length": 11,
+      "location": "ATB212 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Julian Pinerez",
+      "length": 18,
+      "location": "ATB310B"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

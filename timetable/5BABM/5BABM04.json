@@ -1,0 +1,142 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 14,
+      "location": "ATB218"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Alisher Ismailov",
+      "length": 17,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Feruza Yodgorova",
+      "length": 11,
+      "location": "ATB310 A"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Feruza Yodgorova",
+      "length": 12,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Jobir Mallaboev",
+      "length": 15,
+      "location": "IB302"
+    },
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Rahman Khan",
+      "length": 18,
+      "location": "ATB207"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Makhsuma Abdullaeva",
+      "length": 11,
+      "location": "ATB312"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Makhsuma Abdullaeva",
+      "length": 12,
+      "location": "ATB312"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Olesya Smagina",
+      "length": 15,
+      "location": "IB310"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akmal Salikov",
+      "length": 16,
+      "location": "SHB408 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Lilya Memesheva",
+      "length": 17,
+      "location": "ATB302"
+    },
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Rahman Khan",
+      "length": 18,
+      "location": "ATB207"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Lilya Memesheva",
+      "length": 18,
+      "location": "ATB212 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

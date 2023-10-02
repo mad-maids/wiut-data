@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Angelo Battaglia",
+      "length": 15,
+      "location": "ATB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Omon Ganiev",
+      "length": 13,
+      "location": "IB309"
+    },
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Akhliddin Malikov",
+      "length": 15,
+      "location": "Harvard306"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 11,
+      "location": "IB306"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 12,
+      "location": "IB202 CL"
+    },
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Bilal Hossain",
+      "length": 16,
+      "location": "ATB303"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Omon Ganiev",
+      "length": 13,
+      "location": "IB209 CL"
+    },
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akhliddin Malikov",
+      "length": 16,
+      "location": "ATB207"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Prabha Kiran",
+      "length": 14,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Abdurashid Yakubov",
+      "length": 17,
+      "location": "ATB307"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Abdurashid Yakubov",
+      "length": 18,
+      "location": "ATB307"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

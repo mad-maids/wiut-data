@@ -1,0 +1,78 @@
+{
+  "monday": [
+    {
+      "name": "Database Systems Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Hamid Shakhbazkia",
+      "length": 11,
+      "location": "SHB303 CL"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Avazkhan Khalikov",
+      "length": 13,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Jakhongir Karimov",
+      "length": 17,
+      "location": "IB208 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Valeriya Tsoy",
+      "length": 11,
+      "location": "SHB303 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB408 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Fundametals of Programming",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Valeriya Tsoy",
+      "length": 14,
+      "location": "SHB206 H"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

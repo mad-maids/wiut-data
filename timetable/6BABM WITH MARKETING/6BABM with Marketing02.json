@@ -1,0 +1,94 @@
+{
+  "monday": [
+    {
+      "name": "Marketing Analytics",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Anil Kumar",
+      "length": 11,
+      "location": "SHB206 H"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    },
+    {
+      "name": "Project Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 14,
+      "location": "IB307"
+    },
+    {
+      "name": "Marketing Analytics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Anil Kumar",
+      "length": 18,
+      "location": "ATB214 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Iroda Komilova",
+      "length": 11,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Iroda Komilova",
+      "length": 12,
+      "location": "IB215 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB214 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "New Venture Creation",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Timur Perkov",
+      "length": 11,
+      "location": "ATB309"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 13,
+      "location": "ATB211"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

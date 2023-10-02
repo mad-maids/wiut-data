@@ -1,0 +1,61 @@
+{
+  "monday": [
+    {
+      "name": "Legal Profession and Legal Service",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Ravshan Nazarov",
+      "length": 15,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Company Law",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Feruza Bobokulova",
+      "length": 17,
+      "location": "SHB206 H"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Company Law",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Musojon Rizaev",
+      "length": 11,
+      "location": "IB308"
+    },
+    {
+      "name": "Legal Profession and Legal Service",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Anna Snezhkova",
+      "length": 13,
+      "location": "IB215 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Property Law",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Akbar Ismanjanov",
+      "length": 13,
+      "location": "IB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Property Law",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Meyirbek Abdikadirov",
+      "length": 18,
+      "location": "IB313"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}

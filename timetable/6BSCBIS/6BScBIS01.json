@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Jakhongir Karimov",
+      "length": 15,
+      "location": "SHB408 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    },
+    {
+      "name": "Project Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 14,
+      "location": "IB307"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Julian Pinerez",
+      "length": 11,
+      "location": "SHB407"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akmal Salikov",
+      "length": 16,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Jakhongir Karimov",
+      "length": 18,
+      "location": "Harvard306"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Business Information Systems Project",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "John Cena",
+      "length": 12,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 14,
+      "location": "ATB214 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Shoira Mirzakhidova",
+      "length": 11,
+      "location": "IB209 CL"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Shoira Mirzakhidova",
+      "length": 12,
+      "location": "IB209 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "ATB209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Temur Makhkamov",
+      "length": 15,
+      "location": "ATB309"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 16,
+      "location": "ATB309"
+    },
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Muhammad Yousaf",
+      "length": 18,
+      "location": "ATB211"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 13,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akmal Salikov",
+      "length": 16,
+      "location": "SHB408 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Lilya Memesheva",
+      "length": 17,
+      "location": "ATB302"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Lilya Memesheva",
+      "length": 18,
+      "location": "ATB212 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Muhammad Yousaf",
+      "length": 14,
+      "location": "IB209 CL"
+    },
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 16,
+      "location": "IB307"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

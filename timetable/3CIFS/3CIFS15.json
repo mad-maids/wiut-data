@@ -1,0 +1,62 @@
+{
+  "monday": [
+    {
+      "name": "Quantitative Methods",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Indira Khadjieva",
+      "length": 11,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Academic English",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gulnoza Kamilova",
+      "length": 11,
+      "location": "SHB404"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "I, Citizen",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Aziza Khakimova",
+      "length": 13,
+      "location": "IB311"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Quantitative Methods",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 11,
+      "location": "ATB302"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Developing Professional  Identity",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Dildora Tashpulatova",
+      "length": 11,
+      "location": "ATB310B"
+    },
+    {
+      "name": "Academic English",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Gulnoza Kamilova",
+      "length": 13,
+      "location": "SHB503"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

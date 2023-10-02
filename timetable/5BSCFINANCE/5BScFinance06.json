@@ -1,0 +1,70 @@
+{
+  "monday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Omon Ganiev",
+      "length": 13,
+      "location": "IB302"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 11,
+      "location": "IB310"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 12,
+      "location": "IB208 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Omon Ganiev",
+      "length": 16,
+      "location": "IB209 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Musojon Rizaev",
+      "length": 15,
+      "location": "IB307"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Musojon Rizaev",
+      "length": 16,
+      "location": "IB301"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

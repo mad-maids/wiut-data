@@ -1,0 +1,78 @@
+{
+  "monday": [
+    {
+      "name": "Fixed Income Securities",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Bilal Memon",
+      "length": 17,
+      "location": "ATB207"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gulhayo Nusratova",
+      "length": 11,
+      "location": "IB208 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Gulhayo Nusratova",
+      "length": 13,
+      "location": "SHB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilal Memon",
+      "length": 11,
+      "location": "IB310"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Bilal Memon",
+      "length": 12,
+      "location": "IB310"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Hamid Waqas",
+      "length": 16,
+      "location": "ATB312"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Hamid Waqas",
+      "length": 17,
+      "location": "ATB214 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

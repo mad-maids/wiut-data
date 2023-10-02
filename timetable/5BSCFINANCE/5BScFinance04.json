@@ -1,0 +1,102 @@
+{
+  "monday": [
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 11,
+      "location": "IB307"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 12,
+      "location": "IB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "ATB209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Omon Ganiev",
+      "length": 11,
+      "location": "IB216"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Lilya Memesheva",
+      "length": 11,
+      "location": "IB302"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Lilya Memesheva",
+      "length": 12,
+      "location": "IB208 CL"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 13,
+      "location": "Lyceum hall"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Omon Ganiev",
+      "length": 11,
+      "location": "IB209 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "IB316"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Temur Makhkamov",
+      "length": 18,
+      "location": "IB316"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

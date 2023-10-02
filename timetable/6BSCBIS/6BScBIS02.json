@@ -1,0 +1,85 @@
+{
+  "monday": [
+    {
+      "name": "Internet of Things",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Shirin Primkulova",
+      "length": 11,
+      "location": "SHB305 CL"
+    },
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Jakhongir Karimov",
+      "length": 13,
+      "location": "SHB303 CL"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Distributed Systems and Cloud Computing",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Isomiddin Abdunabiev",
+      "length": 14,
+      "location": "SHB303 CL"
+    },
+    {
+      "name": "Distributed Systems and Cloud Computing",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Isomiddin Abdunabiev",
+      "length": 16,
+      "location": "SHB206 H"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 13,
+      "location": "SHB303 CL"
+    },
+    {
+      "name": "Developing Digital Enterprise",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Jakhongir Karimov",
+      "length": 18,
+      "location": "Harvard306"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Business Information Systems Project",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "John Cena",
+      "length": 12,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Internet of Things",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Shirin Primkulova",
+      "length": 15,
+      "location": "SHB408 CL"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}

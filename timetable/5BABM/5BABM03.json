@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 14,
+      "location": "ATB218"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Angelo Battaglia",
+      "length": 15,
+      "location": "ATB307"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Financial Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Lilya Memesheva",
+      "length": 17,
+      "location": "IB311"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 17,
+      "location": "SHB301"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 18,
+      "location": "SHB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 11,
+      "location": "ATB311"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Nasiba Mukhtorova",
+      "length": 12,
+      "location": "ATB311"
+    },
+    {
+      "name": "Financial Accounting",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Kamolakhon Alikulova",
+      "length": 14,
+      "location": "IB310"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Musojon Rizaev",
+      "length": 15,
+      "location": "IB307"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Jobir Mallaboev",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Musojon Rizaev",
+      "length": 16,
+      "location": "IB301"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

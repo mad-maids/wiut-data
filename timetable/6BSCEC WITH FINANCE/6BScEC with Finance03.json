@@ -1,0 +1,102 @@
+{
+  "monday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Nargiza Khuramova",
+      "length": 11,
+      "location": "IB216"
+    },
+    {
+      "name": "Dissertation",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Behzod Alimov",
+      "length": 16,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Labour Economics",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Evangelos",
+      "length": 14,
+      "location": "ATB312"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Hamid Waqas",
+      "length": 17,
+      "location": "IB216"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB209 CL"
+    }
+  ],
+  "wednesday": [],
+  "thursday": [
+    {
+      "name": "Labour Economics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Evangelos",
+      "length": 13,
+      "location": "ATB301"
+    },
+    {
+      "name": "Econometrics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Gayrat Suyunov",
+      "length": 18,
+      "location": "IB215 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Nargiza Khuramova",
+      "length": 13,
+      "location": "IB316"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Jamshid Normatov",
+      "length": 16,
+      "location": "ATB310B"
+    }
+  ],
+  "saturday": [
+    {
+      "name": "Econometrics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Obid Khakimov",
+      "length": 13,
+      "location": "IB216"
+    }
+  ],
+  "sunday": []
+}

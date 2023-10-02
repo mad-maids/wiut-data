@@ -1,0 +1,70 @@
+{
+  "monday": [
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Zohid Askarov",
+      "length": 13,
+      "location": "ATB207"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Econometrics",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Murodullo Bazarov",
+      "length": 13,
+      "location": "ATB214 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Nargiza Khuramova",
+      "length": 17,
+      "location": "IB216"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Nargiza Khuramova",
+      "length": 18,
+      "location": "IB215 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Intermediate Microeconomics",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Muhammed Bilal",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "friday": [],
+  "saturday": [
+    {
+      "name": "Econometrics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Obid Khakimov",
+      "length": 13,
+      "location": "IB216"
+    }
+  ],
+  "sunday": []
+}

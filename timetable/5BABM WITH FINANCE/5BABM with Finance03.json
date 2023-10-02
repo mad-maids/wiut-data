@@ -1,0 +1,207 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Angelo Battaglia",
+      "length": 15,
+      "location": "ATB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "ATB209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Feruza Yodgorova",
+      "length": 11,
+      "location": "ATB310 A"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Feruza Yodgorova",
+      "length": 12,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Econometrics",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gayrat Suyunov",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilal Hossain",
+      "length": 11,
+      "location": "ATB304"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Shokhida Karimova",
+      "length": 14,
+      "location": "ATB304"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 13,
+      "location": "Lyceum hall"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akmal Salikov",
+      "length": 16,
+      "location": "SHB408 CL"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Angelo Battaglia",
+      "length": 17,
+      "location": "ATB301"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Angelo Battaglia",
+      "length": 18,
+      "location": "ATB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Musojon Rizaev",
+      "length": 15,
+      "location": "IB307"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 17,
+      "location": "IB307"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 16,
+      "location": "IB309"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 18,
+      "location": "IB310"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Temur Makhkamov",
+      "length": 18,
+      "location": "IB307"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Prabha Kiran",
+      "length": 11,
+      "location": "ATB211"
+    },
+    {
+      "name": "Game Development",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Akmal Salikov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Shakhnoza Asadova",
+      "length": 13,
+      "location": "IB216"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Musojon Rizaev",
+      "length": 16,
+      "location": "IB301"
+    }
+  ],
+  "saturday": [
+    {
+      "name": "Econometrics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Obid Khakimov",
+      "length": 13,
+      "location": "IB216"
+    }
+  ],
+  "sunday": []
+}

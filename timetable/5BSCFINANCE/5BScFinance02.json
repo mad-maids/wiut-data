@@ -1,0 +1,69 @@
+{
+  "monday": [
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [],
+  "wednesday": [
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 13,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 16,
+      "location": "IB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 17,
+      "location": "IB208 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Muhammad Yousaf",
+      "length": 13,
+      "location": "ATB212 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Financial Econometrics and Modelling",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Muhammad Yousaf",
+      "length": 16,
+      "location": "IB209 CL"
+    },
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 18,
+      "location": "IB216"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

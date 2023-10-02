@@ -1,0 +1,86 @@
+{
+  "monday": [
+    {
+      "name": "Dissertation",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Behzod Alimov",
+      "length": 16,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Rashid Javed",
+      "length": 13,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Abdulaziz Djalilov",
+      "length": 16,
+      "location": "IB306"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Abdulaziz Djalilov",
+      "length": 17,
+      "location": "IB209 CL"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Applied Policy Analysis",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Rashid Javed",
+      "length": 18,
+      "location": "SHB304 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Labour Economics",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Evangelos",
+      "length": 13,
+      "location": "ATB301"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Behzod Alimov",
+      "length": 18,
+      "location": "ATB214 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Labour Economics",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Evangelos",
+      "length": 15,
+      "location": "ATB307"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

@@ -1,0 +1,118 @@
+{
+  "monday": [
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Avazkhan Khalikov",
+      "length": 13,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "online seminar",
+      "start": 15,
+      "tutor": "Feruza Yodgorova",
+      "length": 16,
+      "location": "ATB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Object Oriented Programming",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Jakhongir Karimov",
+      "length": 13,
+      "location": "SHB304 CL"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 16,
+      "location": "IB307"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 17,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Gulomjon Kosimjonov",
+      "length": 18,
+      "location": "ATB314"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB206 H"
+    },
+    {
+      "name": "Database Systems Development",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Dmitriy Pochitaev",
+      "length": 13,
+      "location": "SHB305 CL"
+    },
+    {
+      "name": "Fundametals of Programming",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Nargiza Akramova",
+      "length": 17,
+      "location": "SHB305 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jamshid Normatov",
+      "length": 11,
+      "location": "ATB207"
+    },
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Valeriya Tsoy",
+      "length": 14,
+      "location": "SHB206 H"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Network Operations",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Vasiliy Kuznetsov",
+      "length": 11,
+      "location": "SHB304 CL"
+    },
+    {
+      "name": "Mobile Application Development",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Valeriya Tsoy",
+      "length": 13,
+      "location": "SHB303 CL"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

@@ -1,0 +1,142 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 14,
+      "location": "ATB218"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Angelo Battaglia",
+      "length": 15,
+      "location": "ATB307"
+    },
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Alisher Ismailov",
+      "length": 17,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 15,
+      "location": "ATB218"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Zamira Ataniyazova",
+      "length": 16,
+      "location": "ATB218"
+    },
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Rahman Khan",
+      "length": 18,
+      "location": "ATB207"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilal Hossain",
+      "length": 11,
+      "location": "ATB304"
+    },
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Sitora Inoyatova",
+      "length": 15,
+      "location": "IB302"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Angelo Battaglia",
+      "length": 17,
+      "location": "ATB301"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Angelo Battaglia",
+      "length": 18,
+      "location": "ATB301"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Introduction to Management and Organisational Behaviour",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Yulduz Yakubova",
+      "length": 13,
+      "location": "IB101"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Musojon Rizaev",
+      "length": 15,
+      "location": "IB307"
+    },
+    {
+      "name": "Cross Cultural Management",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Rahman Khan",
+      "length": 18,
+      "location": "ATB207"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Prabha Kiran",
+      "length": 11,
+      "location": "ATB211"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Musojon Rizaev",
+      "length": 16,
+      "location": "IB301"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

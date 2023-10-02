@@ -1,0 +1,118 @@
+{
+  "monday": [
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Gulhayo Nusratova",
+      "length": 11,
+      "location": "IB306"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "online seminar",
+      "start": 16,
+      "tutor": "Bilal Memon",
+      "length": 17,
+      "location": "ATB207"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "online seminar",
+      "start": 17,
+      "tutor": "Hamid Waqas",
+      "length": 18,
+      "location": "IB311"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Abdulaziz Djalilov",
+      "length": 11,
+      "location": "IB313"
+    },
+    {
+      "name": "Investment and Risk Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Abdulaziz Djalilov",
+      "length": 12,
+      "location": "IB209 CL"
+    },
+    {
+      "name": "Strategic Management Accounting and Performance Me",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Gulhayo Nusratova",
+      "length": 14,
+      "location": "IB306"
+    },
+    {
+      "name": "Financial Reporting",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Ravshan Kakharov",
+      "length": 14,
+      "location": "IB301"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 13,
+      "location": "SHB206 H"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Financial Reporting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jamshid Nasretdinov",
+      "length": 11,
+      "location": "IB313"
+    },
+    {
+      "name": "Financial Reporting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Jamshid Nasretdinov",
+      "length": 12,
+      "location": "IB313"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Bilal Memon",
+      "length": 17,
+      "location": "IB306"
+    },
+    {
+      "name": "Fixed Income Securities",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Bilal Memon",
+      "length": 18,
+      "location": "IB306"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Public Finance",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Naqeeb Ur Rehman",
+      "length": 16,
+      "location": "IB307"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

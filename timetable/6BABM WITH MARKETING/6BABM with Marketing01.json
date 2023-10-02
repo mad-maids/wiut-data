@@ -1,0 +1,110 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Julian Pinerez",
+      "length": 15,
+      "location": "Harvard306"
+    },
+    {
+      "name": "New Venture Creation",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Timur Perkov",
+      "length": 17,
+      "location": "ATB304"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Digital Marketing",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Julian Pinerez",
+      "length": 12,
+      "location": "ATB314"
+    },
+    {
+      "name": "Project Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 14,
+      "location": "IB307"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Shakhnoza Asadova",
+      "length": 13,
+      "location": "IB216"
+    },
+    {
+      "name": "Dissertation",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Julian Pinerez",
+      "length": 17,
+      "location": "SHB303 CL"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Iroda Komilova",
+      "length": 15,
+      "location": "IB215 CL"
+    },
+    {
+      "name": "Project Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Iroda Komilova",
+      "length": 16,
+      "location": "IB215 CL"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Digital Marketing",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Abdurasul Absalomov",
+      "length": 11,
+      "location": "ATB212 CL"
+    },
+    {
+      "name": "Strategy in a Complex World",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Jibril Abdul Bashiru",
+      "length": 13,
+      "location": "ATB209"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}

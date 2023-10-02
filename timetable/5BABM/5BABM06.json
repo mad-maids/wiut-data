@@ -1,0 +1,150 @@
+{
+  "monday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "online seminar",
+      "start": 11,
+      "tutor": "Sitora Inoyatova",
+      "length": 13,
+      "location": "IB310"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Zamira Ataniyazova",
+      "length": 14,
+      "location": "ATB218"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "online seminar",
+      "start": 14,
+      "tutor": "Angelo Battaglia",
+      "length": 15,
+      "location": "ATB307"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Akhliddin Malikov",
+      "length": 15,
+      "location": "Harvard306"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Sachdev Ramakrishna",
+      "length": 17,
+      "location": "ATB303"
+    },
+    {
+      "name": "Marketing Management",
+      "type": "seminar",
+      "start": 17,
+      "tutor": "Sachdev Ramakrishna",
+      "length": 18,
+      "location": "ATB303"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "online seminar",
+      "start": 9,
+      "tutor": "Olmas Isakov",
+      "length": 10,
+      "location": "IB311"
+    },
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Bilal Hossain",
+      "length": 11,
+      "location": "ATB304"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Abdurashid Yakubov",
+      "length": 13,
+      "location": "ATB303"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 13,
+      "location": "Lyceum hall"
+    },
+    {
+      "name": "Brand Journalism and Content Strategy",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Abdurashid Yakubov",
+      "length": 14,
+      "location": "ATB303"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 15,
+      "location": "ATB207"
+    },
+    {
+      "name": "Banking Theory and Practice",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Hasan AKM Kamrul",
+      "length": 16,
+      "location": "ATB207"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Quality and Operations Management",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Shakhnoza Asadova",
+      "length": 13,
+      "location": "IB216"
+    },
+    {
+      "name": "Introduction to Political Economy",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Akhliddin Malikov",
+      "length": 16,
+      "location": "ATB207"
+    }
+  ],
+  "friday": [
+    {
+      "name": "Introduction to Statistics and Data Science",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Jamshid Normatov",
+      "length": 11,
+      "location": "ATB207"
+    },
+    {
+      "name": "Design Thinking for Learning",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Prabha Kiran",
+      "length": 11,
+      "location": "ATB211"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}
