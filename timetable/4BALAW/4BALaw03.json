@@ -1,0 +1,61 @@
+{
+  "monday": [
+    {
+      "name": "Legal Skills",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Davron Abdigapparov",
+      "length": 13,
+      "location": "IB308"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "Tort Law",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Malika Mukimova",
+      "length": 11,
+      "location": "IB316"
+    },
+    {
+      "name": "Public Law",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Alisher Pulatov",
+      "length": 13,
+      "location": "IB316"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "Legal Skills",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Tamilla Tagieva",
+      "length": 11,
+      "location": "IB308"
+    },
+    {
+      "name": "Tort Law",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Malika Mukimova",
+      "length": 13,
+      "location": "IB309"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "Public Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Anora Turakhudjaeva",
+      "length": 16,
+      "location": "IB310"
+    }
+  ],
+  "friday": [],
+  "saturday": [],
+  "sunday": []
+}
