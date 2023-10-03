@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Indira Khadjieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB311"
     }
   ],
@@ -15,7 +16,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Gulnoza Kamilova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB404"
     }
   ],
@@ -25,7 +27,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Aziza Khakimova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB311"
     }
   ],
@@ -34,8 +37,9 @@
       "name": "Quantitative Methods",
       "type": "seminar",
       "start": 9,
-      "tutor": "Hasan AKM Kamrul",
-      "length": 11,
+      "tutor": "Ajay Jain",
+      "length": 2,
+      "end": 11,
       "location": "ATB302"
     }
   ],
@@ -45,7 +49,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Dildora Tashpulatova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB310B"
     },
     {
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Gulnoza Kamilova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB503"
     }
   ],

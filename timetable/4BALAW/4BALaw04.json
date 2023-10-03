@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Davron Abdigapparov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB308"
     }
   ],
@@ -15,7 +16,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Malika Mukimova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB316"
     },
     {
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Alisher Pulatov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB316"
     }
   ],
@@ -33,15 +36,17 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Malika Mukimova",
-      "length": 11,
-      "location": "IB316"
+      "length": 2,
+      "end": 11,
+      "location": "IB302"
     },
     {
       "name": "Legal Skills",
       "type": "seminar",
       "start": 11,
       "tutor": "Tamilla Tagieva",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB308"
     }
   ],
@@ -51,7 +56,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Anora Turakhudjaeva",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "IB309"
     }
   ],

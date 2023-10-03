@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Avazkhan Khalikov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB206 H"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Feruza Yodgorova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "ATB311"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Jakhongir Karimov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB304 CL"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdul Aziz Buriev",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB307"
     },
     {
@@ -39,7 +43,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Abdul Aziz Buriev",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB215 CL"
     },
     {
@@ -47,7 +52,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Gulomjon Kosimjonov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "ATB314"
     }
   ],
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Vasiliy Kuznetsov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB206 H"
     },
     {
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Dmitriy Pochitaev",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB305 CL"
     },
     {
@@ -73,7 +81,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Nargiza Akramova",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "SHB305 CL"
     }
   ],
@@ -83,7 +92,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Jamshid Normatov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB207"
     },
     {
@@ -91,7 +101,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Valeriya Tsoy",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "SHB206 H"
     }
   ],
@@ -101,7 +112,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Vasiliy Kuznetsov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB304 CL"
     },
     {
@@ -109,7 +121,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Valeriya Tsoy",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB303 CL"
     }
   ],

@@ -5,16 +5,18 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Indira Khadjieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB311"
     },
     {
       "name": "Quantitative Methods",
       "type": "seminar",
-      "start": 13,
+      "start": 12,
       "tutor": "Indira Khadjieva",
-      "length": 15,
-      "location": "IB306"
+      "length": 2,
+      "end": 14,
+      "location": "IB307"
     }
   ],
   "tuesday": [
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Erkin Mukhammedov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "SHB406"
     }
   ],
@@ -33,7 +36,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Kiriaki Kanakidi",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB311"
     }
   ],
@@ -43,7 +47,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Erkin Mukhammedov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "SHB207"
     }
   ],
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Albina Fakhrutdinova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB309"
     }
   ],

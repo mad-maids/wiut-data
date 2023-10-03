@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Gulhayo Nusratova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB306"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 16,
       "tutor": "Bilal Memon",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "ATB207"
     },
     {
@@ -21,7 +23,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Temur Makhkamov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "ATB209"
     },
     {
@@ -29,7 +32,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Hamid Waqas",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB311"
     }
   ],
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB307"
     },
     {
@@ -47,7 +52,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Muhammad Yousaf",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "ATB211"
     }
   ],
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Gulhayo Nusratova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "SHB301"
     },
     {
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Khurram Khan",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB310"
     },
     {
@@ -73,7 +81,8 @@
       "type": "seminar",
       "start": 17,
       "tutor": "Khurram Khan",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB310"
     }
   ],
@@ -83,7 +92,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB215 CL"
     },
     {
@@ -91,7 +101,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Iroda Komilova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "IB215 CL"
     }
   ],
@@ -101,7 +112,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Temur Makhkamov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB307"
     },
     {
@@ -109,7 +121,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Temur Makhkamov",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "IB307"
     },
     {
@@ -117,7 +130,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Muhammad Yousaf",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "IB209 CL"
     },
     {
@@ -125,7 +139,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdulaziz Djalilov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB313"
     },
     {
@@ -133,7 +148,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Abdulaziz Djalilov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB208 CL"
     }
   ],

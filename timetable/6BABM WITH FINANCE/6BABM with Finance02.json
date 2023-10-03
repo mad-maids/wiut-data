@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Nargiza Khuramova",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "IB216"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Murtaza Niazi",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "IB316"
     },
     {
@@ -21,7 +23,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Hamid Waqas",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB311"
     }
   ],
@@ -31,7 +34,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Jibril Abdul Bashiru",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB212 CL"
     },
     {
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Julian Pinerez",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "ATB314"
     },
     {
@@ -47,7 +52,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB307"
     },
     {
@@ -55,7 +61,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Ravshan Kakharov",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB301"
     },
     {
@@ -63,7 +70,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdulaziz Djalilov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB306"
     },
     {
@@ -71,7 +79,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Abdulaziz Djalilov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB209 CL"
     }
   ],
@@ -81,7 +90,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Jibril Abdul Bashiru",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB310B"
     },
     {
@@ -89,7 +99,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Ravshan Kakharov",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "ATB214 CL"
     },
     {
@@ -97,7 +108,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Ravshan Kakharov",
-      "length": 15,
+      "length": 1,
+      "end": 15,
       "location": "ATB209"
     }
   ],
@@ -107,7 +119,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Murtaza Niazi",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB208 CL"
     },
     {
@@ -115,7 +128,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Murtaza Niazi",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "IB208 CL"
     }
   ],
@@ -125,7 +139,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Shoira Mirzakhidova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB209 CL"
     },
     {
@@ -133,7 +148,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Abdurasul Absalomov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB212 CL"
     },
     {
@@ -141,7 +157,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Shoira Mirzakhidova",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "IB209 CL"
     },
     {
@@ -149,7 +166,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Timur Perkov",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "ATB312"
     },
     {
@@ -157,7 +175,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Nargiza Khuramova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB309"
     }
   ],

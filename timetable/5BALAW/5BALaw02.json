@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Ravshan Nazarov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "SHB206 H"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Feruza Bobokulova",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "SHB206 H"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Musojon Rizaev",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB308"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Anna Snezhkova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB215 CL"
     }
   ],
@@ -41,7 +45,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Akbar Ismanjanov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB301"
     }
   ],
@@ -51,7 +56,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Meyirbek Abdikadirov",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "IB313"
     }
   ],

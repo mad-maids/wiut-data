@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Hamid Shakhbazkia",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB303 CL"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Avazkhan Khalikov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB206 H"
     },
     {
@@ -21,7 +23,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Jakhongir Karimov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB208 CL"
     }
   ],
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Valeriya Tsoy",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB303 CL"
     }
   ],
@@ -41,7 +45,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Akmal Salikov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB408 CL"
     }
   ],
@@ -51,7 +56,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Vasiliy Kuznetsov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB408 CL"
     },
     {
@@ -59,7 +65,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Valeriya Tsoy",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "SHB206 H"
     }
   ],
@@ -69,7 +76,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Akmal Salikov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB206 H"
     }
   ],

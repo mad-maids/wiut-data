@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Sitora Inoyatova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB310"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Julian Pinerez",
-      "length": 15,
+      "length": 1,
+      "end": 15,
       "location": "Harvard306"
     },
     {
@@ -21,7 +23,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Timur Perkov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "ATB304"
     }
   ],
@@ -31,7 +34,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Jibril Abdul Bashiru",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB212 CL"
     },
     {
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Julian Pinerez",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "ATB314"
     },
     {
@@ -47,7 +52,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB307"
     }
   ],
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Shakhnoza Asadova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB216"
     },
     {
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Julian Pinerez",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "SHB303 CL"
     }
   ],
@@ -75,7 +83,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB215 CL"
     },
     {
@@ -83,7 +92,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Iroda Komilova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "IB215 CL"
     }
   ],
@@ -93,7 +103,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Abdurasul Absalomov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB212 CL"
     },
     {
@@ -101,7 +112,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Jibril Abdul Bashiru",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB209"
     }
   ],

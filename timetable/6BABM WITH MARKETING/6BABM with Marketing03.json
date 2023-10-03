@@ -6,7 +6,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Jibril Abdul Bashiru",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB212 CL"
     },
     {
@@ -14,7 +15,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Julian Pinerez",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "ATB314"
     }
   ],
@@ -24,7 +26,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Zamira Ataniyazova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "Harvard306"
     }
   ],
@@ -34,7 +37,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Alisher Ismailov",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "ATB314"
     },
     {
@@ -42,7 +46,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Zamira Ataniyazova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB211"
     }
   ],
@@ -52,7 +57,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdurasul Absalomov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB214 CL"
     },
     {
@@ -60,7 +66,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Isabel V. Zamora",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "ATB209"
     }
   ],

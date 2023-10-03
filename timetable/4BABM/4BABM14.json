@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Gayrat Suyunov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB303"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 14,
       "tutor": "Dilshoda Rakhmonova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB314"
     },
     {
@@ -21,7 +23,8 @@
       "type": "online seminar",
       "start": 16,
       "tutor": "Alisher Ismailov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB311"
     }
   ],
@@ -31,7 +34,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Lilya Memesheva",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB311"
     },
     {
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Gulomjon Kosimjonov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "ATB314"
     }
   ],
@@ -50,7 +55,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Shoira Mirzakhidova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB309"
     },
     {
@@ -58,7 +64,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Khurram Khan",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "ATB209"
     }
   ],
@@ -68,7 +75,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Gulnaz Bektemirova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB503"
     }
   ],

@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Indira Khadjieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB311"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Yusufjon Pulatov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "ATB312"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Saida Akbarova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB407"
     }
   ],
@@ -33,7 +36,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Nigina Rustamova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB310 A"
     }
   ],
@@ -43,7 +47,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Saida Akbarova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB503"
     }
   ],
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Rano Rozikova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB407"
     }
   ],

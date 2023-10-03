@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Feruza Yodgorova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "ATB311"
     }
   ],
@@ -16,7 +17,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Naqeeb Ur Rehman",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB206 H"
     },
     {
@@ -24,7 +26,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdul Aziz Buriev",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB307"
     },
     {
@@ -32,7 +35,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Abdul Aziz Buriev",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB208 CL"
     }
   ],
@@ -42,7 +46,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Muhammad Yousaf",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB212 CL"
     }
   ],
@@ -52,7 +57,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Muhammad Yousaf",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB209 CL"
     },
     {
@@ -60,7 +66,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Naqeeb Ur Rehman",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "IB216"
     }
   ],

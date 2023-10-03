@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Behzod Alimov",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "Harvard306"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Hamid Waqas",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB311"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Rashid Javed",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "Harvard306"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Abdulaziz Djalilov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB306"
     },
     {
@@ -39,7 +43,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Abdulaziz Djalilov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "IB209 CL"
     }
   ],
@@ -49,7 +54,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Rashid Javed",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "SHB304 CL"
     }
   ],
@@ -59,7 +65,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Evangelos",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB301"
     },
     {
@@ -67,7 +74,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Behzod Alimov",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "ATB214 CL"
     }
   ],
@@ -77,7 +85,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Evangelos",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "ATB307"
     }
   ],

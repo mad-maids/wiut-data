@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Behzod Alimov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB214 CL"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Behzod Alimov",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "Harvard306"
     },
     {
@@ -21,7 +23,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Hamid Waqas",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB311"
     }
   ],
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Jamshid Nasretdinov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB211"
     },
     {
@@ -39,7 +43,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Jamshid Nasretdinov",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "ATB211"
     },
     {
@@ -47,7 +52,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Ravshan Kakharov",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB301"
     },
     {
@@ -55,7 +61,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Muhammed Bilal",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB209"
     }
   ],
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Abdulaziz Djalilov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB306"
     },
     {
@@ -73,7 +81,8 @@
       "type": "seminar",
       "start": 17,
       "tutor": "Abdulaziz Djalilov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB208 CL"
     }
   ],
@@ -83,7 +92,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Evangelos",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB301"
     },
     {
@@ -91,7 +101,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Khilola Dushamova",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB316"
     },
     {
@@ -99,7 +110,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Gayrat Suyunov",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "IB215 CL"
     }
   ],
@@ -109,7 +121,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Muhammed Bilal",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "ATB303"
     }
   ],
@@ -119,7 +132,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Obid Khakimov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB216"
     }
   ],

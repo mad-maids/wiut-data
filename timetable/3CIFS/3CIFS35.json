@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Umida Abdurakhimova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB502"
     }
   ],
@@ -15,7 +16,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Indira Khadjieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB311"
     }
   ],
@@ -25,7 +27,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Nilufar Rashitova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB216"
     }
   ],
@@ -35,7 +38,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Jamola Urinbaeva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "Harvard306"
     },
     {
@@ -43,7 +47,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Jasur Khudoyberdiev",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB407"
     }
   ],
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Umida Abdurakhimova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB301"
     }
   ],

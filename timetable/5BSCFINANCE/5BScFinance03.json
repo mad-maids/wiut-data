@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Feruza Yodgorova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "ATB311"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Temur Makhkamov",
-      "length": 17,
+      "length": 1,
+      "end": 17,
       "location": "ATB209"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Lilya Memesheva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB302"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Lilya Memesheva",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "IB202 CL"
     }
   ],
@@ -41,7 +45,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Muhammad Yousaf",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB312"
     }
   ],
@@ -51,7 +56,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Muhammad Yousaf",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "IB209 CL"
     }
   ],
@@ -61,7 +67,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Temur Makhkamov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB316"
     },
     {
@@ -69,7 +76,8 @@
       "type": "seminar",
       "start": 17,
       "tutor": "Temur Makhkamov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "IB316"
     }
   ],

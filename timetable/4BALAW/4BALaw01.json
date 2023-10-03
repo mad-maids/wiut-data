@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Malika Mukimova",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB316"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Alisher Pulatov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB309"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Mamurakhon Turguboeva",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB311"
     }
   ],
@@ -33,7 +36,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Davron Abdigapparov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB309"
     }
   ],
@@ -43,7 +47,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Tamilla Tagieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB302"
     }
   ],
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Alisher Pulatov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB311"
     }
   ],

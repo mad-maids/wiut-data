@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Alim Asanov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB503"
     }
   ],
@@ -15,7 +16,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Indira Khadjieva",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB311"
     },
     {
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Aziz Holmatov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "SHB301"
     }
   ],
@@ -33,7 +36,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Alim Asanov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB314"
     }
   ],
@@ -43,7 +47,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Andrey Khojeev",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB406"
     }
   ],
@@ -53,7 +58,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Shahzod Tulkinov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB302"
     }
   ],

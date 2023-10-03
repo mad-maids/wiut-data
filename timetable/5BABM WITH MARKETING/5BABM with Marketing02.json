@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Sitora Inoyatova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB310"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Zamira Ataniyazova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "ATB218"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Nasiba Mukhtorova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB309"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Nasiba Mukhtorova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "IB309"
     },
     {
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Gulomjon Kosimjonov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "ATB314"
     }
   ],
@@ -49,7 +54,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Anil Kumar",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "ATB310 A"
     },
     {
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Anil Kumar",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "ATB310 A"
     }
   ],
@@ -67,7 +74,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Shakhnoza Asadova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB216"
     }
   ],
@@ -77,7 +85,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Zarrukh Rakhimov",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "SHB206 H"
     }
   ],

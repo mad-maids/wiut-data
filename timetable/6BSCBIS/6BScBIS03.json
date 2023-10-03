@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Hamid Shakhbazkia",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB304 CL"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Hamid Shakhbazkia",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "SHB305 CL"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "IB307"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Isomiddin Abdunabiev",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "SHB206 H"
     },
     {
@@ -39,7 +43,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Isomiddin Abdunabiev",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "SHB304 CL"
     }
   ],
@@ -49,7 +54,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Jakhongir Karimov",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "SHB304 CL"
     },
     {
@@ -57,7 +63,8 @@
       "type": "online seminar",
       "start": 16,
       "tutor": "Jakhongir Karimov",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "Harvard306"
     }
   ],
@@ -67,7 +74,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "John Cena",
-      "length": 12,
+      "length": 1,
+      "end": 12,
       "location": "SHB206 H"
     },
     {
@@ -75,7 +83,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Iroda Komilova",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB215 CL"
     },
     {
@@ -83,7 +92,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Iroda Komilova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "IB215 CL"
     }
   ],
@@ -93,7 +103,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Akmal Salikov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB206 H"
     },
     {
@@ -101,7 +112,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Akmal Salikov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB408 CL"
     }
   ],

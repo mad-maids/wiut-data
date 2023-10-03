@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Sitora Inoyatova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB310"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Zamira Ataniyazova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "ATB218"
     },
     {
@@ -21,7 +23,8 @@
       "type": "online seminar",
       "start": 14,
       "tutor": "Angelo Battaglia",
-      "length": 15,
+      "length": 1,
+      "end": 15,
       "location": "ATB307"
     },
     {
@@ -29,7 +32,8 @@
       "type": "online seminar",
       "start": 15,
       "tutor": "Feruza Yodgorova",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "ATB311"
     }
   ],
@@ -39,7 +43,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Shakhnoza Asadova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB313"
     },
     {
@@ -47,7 +52,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Akhliddin Malikov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "Harvard306"
     }
   ],
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Bilal Hossain",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB304"
     },
     {
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Zamira Ataniyazova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB209"
     },
     {
@@ -73,7 +81,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Zamira Ataniyazova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "ATB209"
     },
     {
@@ -81,7 +90,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Akmal Salikov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "SHB408 CL"
     }
   ],
@@ -91,7 +101,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Musojon Rizaev",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "IB307"
     },
     {
@@ -99,25 +110,19 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Akhliddin Malikov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB207"
     }
   ],
   "friday": [
     {
-      "name": "Management Accounting",
-      "type": "seminar",
-      "start": 9,
-      "tutor": "Lilya Memesheva",
-      "length": 11,
-      "location": "ATB311"
-    },
-    {
       "name": "Design Thinking for Learning",
       "type": "seminar",
       "start": 9,
       "tutor": "Prabha Kiran",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB211"
     },
     {
@@ -125,15 +130,26 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Akmal Salikov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB206 H"
     },
     {
       "name": "Management Accounting",
       "type": "seminar",
+      "start": 9,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 2,
+      "end": 11,
+      "location": "ATB311"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
       "start": 11,
-      "tutor": "Lilya Memesheva",
-      "length": 12,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 1,
+      "end": 12,
       "location": "ATB212 CL"
     },
     {
@@ -141,7 +157,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Musojon Rizaev",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB301"
     },
     {
@@ -149,7 +166,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Abdurashid Yakubov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "ATB307"
     },
     {
@@ -157,7 +175,8 @@
       "type": "seminar",
       "start": 17,
       "tutor": "Abdurashid Yakubov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "ATB307"
     }
   ],

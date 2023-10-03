@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Sitora Inoyatova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB310"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Zamira Ataniyazova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "ATB218"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Akhliddin Malikov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "Harvard306"
     }
   ],
@@ -33,7 +36,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Olmas Isakov",
-      "length": 10,
+      "length": 1,
+      "end": 10,
       "location": "IB311"
     },
     {
@@ -41,7 +45,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Bilal Hossain",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB303"
     }
   ],
@@ -51,7 +56,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Zamira Ataniyazova",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB211"
     },
     {
@@ -59,7 +65,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Zamira Ataniyazova",
-      "length": 14,
+      "length": 1,
+      "end": 14,
       "location": "ATB211"
     },
     {
@@ -67,7 +74,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Akhliddin Malikov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB207"
     }
   ],
@@ -77,7 +85,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Prabha Kiran",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "Harvard306"
     },
     {
@@ -85,7 +94,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Ulugbek Islamov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB310 A"
     },
     {
@@ -93,7 +103,8 @@
       "type": "seminar",
       "start": 16,
       "tutor": "Zarrukh Rakhimov",
-      "length": 18,
+      "length": 2,
+      "end": 18,
       "location": "SHB502"
     }
   ],

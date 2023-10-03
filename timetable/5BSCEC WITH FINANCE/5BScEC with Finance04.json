@@ -5,7 +5,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Zohid Askarov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "ATB207"
     },
     {
@@ -13,7 +14,8 @@
       "type": "online seminar",
       "start": 13,
       "tutor": "Farrukh Ataev",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "ATB310 A"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Akhliddin Malikov",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "Harvard306"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Akhliddin Malikov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "ATB302"
     }
   ],
@@ -41,7 +45,8 @@
       "type": "online seminar",
       "start": 9,
       "tutor": "Olmas Isakov",
-      "length": 10,
+      "length": 1,
+      "end": 10,
       "location": "IB311"
     },
     {
@@ -49,7 +54,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Naqeeb Ur Rehman",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB206 H"
     },
     {
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Hasan AKM Kamrul",
-      "length": 13,
+      "length": 1,
+      "end": 13,
       "location": "Lyceum hall"
     },
     {
@@ -65,7 +72,8 @@
       "type": "seminar",
       "start": 13,
       "tutor": "Hasan AKM Kamrul",
-      "length": 15,
+      "length": 2,
+      "end": 15,
       "location": "ATB207"
     },
     {
@@ -73,7 +81,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Hasan AKM Kamrul",
-      "length": 16,
+      "length": 1,
+      "end": 16,
       "location": "ATB207"
     }
   ],
@@ -83,7 +92,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Murodullo Bazarov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB202 CL"
     },
     {
@@ -91,7 +101,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Muhammed Bilal",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "ATB312"
     }
   ],
@@ -101,7 +112,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Gulomjon Kosimjonov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB101"
     },
     {
@@ -109,7 +121,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Ulugbek Rakhimov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "IB316"
     },
     {
@@ -117,7 +130,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Naqeeb Ur Rehman",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "IB307"
     }
   ],
@@ -127,7 +141,8 @@
       "type": "online seminar",
       "start": 11,
       "tutor": "Obid Khakimov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "IB216"
     }
   ],

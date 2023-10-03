@@ -5,7 +5,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Dmitriy Pochitaev",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB304 CL"
     },
     {
@@ -13,7 +14,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Avazkhan Khalikov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB206 H"
     }
   ],
@@ -23,7 +25,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Valeriya Tsoy",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB305 CL"
     },
     {
@@ -31,7 +34,8 @@
       "type": "seminar",
       "start": 15,
       "tutor": "Jakhongir Karimov",
-      "length": 17,
+      "length": 2,
+      "end": 17,
       "location": "IB208 CL"
     },
     {
@@ -39,7 +43,8 @@
       "type": "online seminar",
       "start": 17,
       "tutor": "Gulomjon Kosimjonov",
-      "length": 18,
+      "length": 1,
+      "end": 18,
       "location": "ATB314"
     }
   ],
@@ -49,7 +54,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Bilal Hossain",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "ATB304"
     },
     {
@@ -57,7 +63,8 @@
       "type": "seminar",
       "start": 11,
       "tutor": "Akmal Salikov",
-      "length": 13,
+      "length": 2,
+      "end": 13,
       "location": "SHB408 CL"
     }
   ],
@@ -67,7 +74,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Valeriya Tsoy",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "SHB206 H"
     }
   ],
@@ -77,7 +85,8 @@
       "type": "seminar",
       "start": 9,
       "tutor": "Akmal Salikov",
-      "length": 11,
+      "length": 2,
+      "end": 11,
       "location": "SHB206 H"
     },
     {
@@ -85,7 +94,8 @@
       "type": "seminar",
       "start": 12,
       "tutor": "Prabha Kiran",
-      "length": 14,
+      "length": 2,
+      "end": 14,
       "location": "Harvard306"
     },
     {
@@ -93,7 +103,8 @@
       "type": "seminar",
       "start": 14,
       "tutor": "Olmas Isakov",
-      "length": 16,
+      "length": 2,
+      "end": 16,
       "location": "ATB309"
     }
   ],
