@@ -30,26 +30,7 @@
       "location": "ATB214 CL"
     }
   ],
-  "wednesday": [
-    {
-      "name": "Management Accounting",
-      "type": "seminar",
-      "start": 15,
-      "tutor": "Nargiza Khuramova",
-      "length": 2,
-      "end": 17,
-      "location": "IB216"
-    },
-    {
-      "name": "Management Accounting",
-      "type": "seminar",
-      "start": 17,
-      "tutor": "Nargiza Khuramova",
-      "length": 1,
-      "end": 18,
-      "location": "IB215 CL"
-    }
-  ],
+  "wednesday": [],
   "thursday": [
     {
       "name": "Intermediate Microeconomics",
@@ -61,7 +42,26 @@
       "location": "ATB314"
     }
   ],
-  "friday": [],
+  "friday": [
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 9,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 2,
+      "end": 11,
+      "location": "IB216"
+    },
+    {
+      "name": "Management Accounting",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Abdul Aziz Buriev",
+      "length": 1,
+      "end": 12,
+      "location": "IB215 CL"
+    }
+  ],
   "saturday": [
     {
       "name": "Econometrics",
