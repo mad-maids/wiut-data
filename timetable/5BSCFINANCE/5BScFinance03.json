@@ -41,6 +41,15 @@
   ],
   "wednesday": [
     {
+      "name": "Global  Business Environment",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Nigora Saidmuradova",
+      "length": 2,
+      "end": 13,
+      "location": "ATB301"
+    },
+    {
       "name": "Financial Econometrics and Modelling",
       "type": "seminar",
       "start": 14,

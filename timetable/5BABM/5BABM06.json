@@ -133,6 +133,15 @@
       "location": "IB216"
     },
     {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Musojon Rizaev",
+      "length": 2,
+      "end": 15,
+      "location": "IB307"
+    },
+    {
       "name": "Introduction to Political Economy",
       "type": "seminar",
       "start": 14,
@@ -160,6 +169,15 @@
       "length": 2,
       "end": 11,
       "location": "ATB211"
+    },
+    {
+      "name": "Comercial and Corporate Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Musojon Rizaev",
+      "length": 2,
+      "end": 16,
+      "location": "IB301"
     }
   ],
   "saturday": [],

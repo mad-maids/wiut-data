@@ -23,11 +23,11 @@
     {
       "name": "I, Citizen",
       "type": "seminar",
-      "start": 16,
+      "start": 11,
       "tutor": "Alisher Kosimov",
       "length": 2,
-      "end": 18,
-      "location": "SHB302"
+      "end": 13,
+      "location": "ATB218"
     }
   ],
   "wednesday": [
