@@ -48,15 +48,6 @@
       "location": "ATB309"
     },
     {
-      "name": "Corporate Governance for Finance",
-      "type": "seminar",
-      "start": 15,
-      "tutor": "Temur Makhkamov",
-      "length": 1,
-      "end": 16,
-      "location": "ATB309"
-    },
-    {
       "name": "Management Accounting",
       "type": "seminar",
       "start": 15,
@@ -64,6 +55,15 @@
       "length": 2,
       "end": 17,
       "location": "IB101"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 1,
+      "end": 16,
+      "location": "ATB309"
     },
     {
       "name": "Management Accounting",

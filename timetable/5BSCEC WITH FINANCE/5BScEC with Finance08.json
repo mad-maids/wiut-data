@@ -10,6 +10,15 @@
       "location": "ATB207"
     },
     {
+      "name": "Mathematics for Economists",
+      "type": "online seminar",
+      "start": 13,
+      "tutor": "Farrukh Ataev",
+      "length": 2,
+      "end": 15,
+      "location": "ATB310 A"
+    },
+    {
       "name": "Management Accounting",
       "type": "online seminar",
       "start": 15,
@@ -61,7 +70,17 @@
       "location": "ATB211"
     }
   ],
-  "friday": [],
+  "friday": [
+    {
+      "name": "Mathematics for Economists",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Ulugbek Rakhimov",
+      "length": 2,
+      "end": 16,
+      "location": "Harvard306"
+    }
+  ],
   "saturday": [
     {
       "name": "Econometrics",

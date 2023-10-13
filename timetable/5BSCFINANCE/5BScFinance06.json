@@ -17,6 +17,15 @@
       "length": 1,
       "end": 16,
       "location": "ATB311"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 16,
+      "tutor": "Temur Makhkamov",
+      "length": 1,
+      "end": 17,
+      "location": "ATB209"
     }
   ],
   "tuesday": [
@@ -37,6 +46,24 @@
       "length": 1,
       "end": 12,
       "location": "IB208 CL"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 13,
+      "tutor": "Temur Makhkamov",
+      "length": 2,
+      "end": 15,
+      "location": "ATB309"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 1,
+      "end": 16,
+      "location": "ATB309"
     }
   ],
   "wednesday": [

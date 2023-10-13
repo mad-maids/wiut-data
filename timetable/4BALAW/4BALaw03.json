@@ -1,15 +1,5 @@
 {
-  "monday": [
-    {
-      "name": "Legal Skills",
-      "type": "seminar",
-      "start": 11,
-      "tutor": "Davron Abdigapparov",
-      "length": 2,
-      "end": 13,
-      "location": "IB308"
-    }
-  ],
+  "monday": [],
   "tuesday": [
     {
       "name": "Tort Law",
@@ -51,6 +41,15 @@
     }
   ],
   "thursday": [
+    {
+      "name": "Legal Skills",
+      "type": "seminar",
+      "start": 11,
+      "tutor": "Davron Abdigapparov",
+      "length": 2,
+      "end": 13,
+      "location": "SHB303 CL"
+    },
     {
       "name": "Public Law",
       "type": "seminar",
