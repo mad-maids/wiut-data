@@ -142,15 +142,6 @@
       "location": "IB307"
     },
     {
-      "name": "Corporate Governance for Finance",
-      "type": "seminar",
-      "start": 15,
-      "tutor": "Temur Makhkamov",
-      "length": 2,
-      "end": 17,
-      "location": "ATB302"
-    },
-    {
       "name": "Banking Theory and Practice",
       "type": "seminar",
       "start": 15,
@@ -158,6 +149,15 @@
       "length": 1,
       "end": 16,
       "location": "IB309"
+    },
+    {
+      "name": "Corporate Governance for Finance",
+      "type": "seminar",
+      "start": 15,
+      "tutor": "Temur Makhkamov",
+      "length": 2,
+      "end": 17,
+      "location": "ATB302"
     },
     {
       "name": "Banking Theory and Practice",

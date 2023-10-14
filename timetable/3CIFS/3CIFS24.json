@@ -32,6 +32,15 @@
   ],
   "wednesday": [
     {
+      "name": "Quantitative Methods",
+      "type": "seminar",
+      "start": 12,
+      "tutor": "Nodira Komilova",
+      "length": 2,
+      "end": 14,
+      "location": "IB202 CL"
+    },
+    {
       "name": "Developing Professional  Identity",
       "type": "seminar",
       "start": 14,
@@ -52,17 +61,7 @@
       "location": "SHB302"
     }
   ],
-  "friday": [
-    {
-      "name": "Quantitative Methods",
-      "type": "seminar",
-      "start": 9,
-      "tutor": "Nodira Komilova",
-      "length": 2,
-      "end": 11,
-      "location": "ATB314"
-    }
-  ],
+  "friday": [],
   "saturday": [],
   "sunday": []
 }
