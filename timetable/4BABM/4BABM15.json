@@ -43,11 +43,11 @@
     {
       "name": "Introduction to Management and Organisational Behaviour",
       "type": "seminar",
-      "start": 9,
+      "start": 14,
       "tutor": "Gulnaz Bektemirova",
       "length": 2,
-      "end": 11,
-      "location": "ATB311"
+      "end": 16,
+      "location": "ATB314"
     }
   ],
   "thursday": [
