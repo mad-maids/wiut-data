@@ -109,20 +109,20 @@
     {
       "name": "Marketing Management",
       "type": "seminar",
-      "start": 15,
+      "start": 11,
       "tutor": "Zamira Ataniyazova",
       "length": 2,
-      "end": 17,
-      "location": "SHB406"
+      "end": 13,
+      "location": "IB301"
     },
     {
       "name": "Marketing Management",
       "type": "seminar",
-      "start": 17,
+      "start": 13,
       "tutor": "Zamira Ataniyazova",
       "length": 1,
-      "end": 18,
-      "location": "SHB406"
+      "end": 14,
+      "location": "IB301"
     }
   ],
   "saturday": [],
