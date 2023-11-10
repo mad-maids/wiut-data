@@ -12,15 +12,6 @@
   ],
   "tuesday": [
     {
-      "name": "Dissertation in Law",
-      "type": "seminar",
-      "start": 11,
-      "tutor": "Tamilla Tagieva",
-      "length": 1,
-      "end": 12,
-      "location": "SHB206 H"
-    },
-    {
       "name": "International Economic Law",
       "type": "seminar",
       "start": 12,
@@ -50,6 +41,15 @@
       "length": 2,
       "end": 13,
       "location": "IB301"
+    },
+    {
+      "name": "Dissertation in Law",
+      "type": "seminar",
+      "start": 14,
+      "tutor": "Tamilla Tagieva",
+      "length": 1,
+      "end": 15,
+      "location": "IB308"
     }
   ],
   "friday": [

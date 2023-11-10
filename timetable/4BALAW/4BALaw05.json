@@ -40,15 +40,6 @@
       "length": 2,
       "end": 14,
       "location": "IB313"
-    },
-    {
-      "name": "Legal Skills",
-      "type": "seminar",
-      "start": 14,
-      "tutor": "Tamilla Tagieva",
-      "length": 2,
-      "end": 16,
-      "location": "IB308"
     }
   ],
   "friday": [
